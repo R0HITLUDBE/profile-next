@@ -3,7 +3,7 @@ import React from "react";
 
 const Contact = () => {
   return (
-    <div className="w-full overflow-hidden bg-white pb-16 md:px-10" id="contact">
+    <div className="w-full overflow-hidden bg-inherit pb-16 md:px-10" id="contact">
       <hr className="border h-0  mb-20" />
       <div className="flex flex-col">
         <h1 className="text-4xl font-bold py-2 px-3">Contact</h1>

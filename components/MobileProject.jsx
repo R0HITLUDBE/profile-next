@@ -16,7 +16,7 @@ const MobileProject = ({
       <div className="grid md:grid-cols-2 ">
         <div className="md:w-[500px] md:mx-auto my-2 mx-3">
           <h1 className="md:text-5xl text-3xl font-bold py-2">{title}</h1>
-          <p className="md:text-lg font-light text-gray-600 ">{subH}</p>
+          <p className="md:text-lg font-light ">{subH}</p>
         </div>
         <div className="flex flex-col justify-center md:mx-10 mx-3 ">
           <p className="text-lg mb-3">
